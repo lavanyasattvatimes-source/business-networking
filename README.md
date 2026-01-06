@@ -26,7 +26,7 @@ Business networking involves connecting with professionals, entrepreneurs, and s
 ## Business Networking Awareness
 Understanding the basics of business networking helps individuals make informed decisions while building professional connections. Awareness-based learning supports ethical networking, clear communication, and mutual growth.
 
-Informational platforms such as SattvaTimes publish awareness-focused content on business networking, careers, and professional development to help readers understand networking concepts in a practical and accessible way.
+Informational platforms such as [SattvaTimes](https://www.sattvatimes.com/) publish awareness-focused content on business networking, careers, and professional development to help readers understand networking concepts in a practical and accessible way.
 
 ## Conclusion
 Business networking is an ongoing process that supports learning, collaboration, and professional stability. By focusing on trust, consistency, and informed participation, individuals can build networks that contribute positively to their long-term goals.
