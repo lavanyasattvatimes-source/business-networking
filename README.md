@@ -7,9 +7,13 @@ Business networking involves connecting with professionals, entrepreneurs, and s
 
 ## Importance of Business Networking
 - Helps professionals learn from shared experiences  
-- Creates opportunities for collaboration and partnerships  
+- Creates opportunities for collaboration and partnerships.
 - Improves visibility and credibility within industries  
-- Supports career development and skill growth  
+- Supports career development and skill growth
+
+<p align="center">
+  <img src="1.png" alt="Business Networking" width="600">
+</p>
 
 ## Common Forms of Business Networking
 - Professional meetups and events  
@@ -21,8 +25,8 @@ Business networking involves connecting with professionals, entrepreneurs, and s
 - Focus on meaningful conversations instead of self-promotion  
 - Listen actively and show genuine interest  
 - Maintain regular communication and follow-ups  
-- Share knowledge and offer value when possible  
-
+- Share knowledge and offer value when possible
+  
 ## Business Networking Awareness
 Understanding the basics of business networking helps individuals make informed decisions while building professional connections. Awareness-based learning supports ethical networking, clear communication, and mutual growth.
 
